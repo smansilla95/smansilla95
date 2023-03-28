@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian! <br/><a href="https://github.com/smansilla95"<a href="https://www.linkedin.com/in/sebastian-mansilla/">Cybersecurity Professional</a>
+<h1>Hi, I'm Sebastian! <br/><a href="https://www.linkedin.com/in/sebastian-mansilla/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
