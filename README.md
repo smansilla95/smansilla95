@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Build, Secure, and Protect a Web Application (Azure Labs)</b>
-  - [Praciting DS & Algos in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/smansilla95/Building-A-Web-App-and-Adding-an-SSL-Certificate)) <b>
+  - [Build, Secure, and Protect a Web Application](https://github.com/smansilla95/Building-A-Web-App-and-Adding-an-SSL-Certificate) <b>
 
 <h2> 🤳 Connect with me:</h2>
 
