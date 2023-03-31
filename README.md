@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Build, Secure, and Protect a Web Application](https://github.com/smansilla95/Building-A-Web-App-and-Adding-an-SSL-Certificate) <b>
+  - [Building a Web App and Adding an SSL Certificate](https://github.com/smansilla95/Building-A-Web-App-and-Adding-an-SSL-Certificate) <b>
 
 <h2> 🤳 Connect with me:</h2>
 
