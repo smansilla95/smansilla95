@@ -3,10 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Build, Secure, and Protect a Web Application (Azure Labs)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Penetration Test Report (Nessus Scans, OSINT, Metasploit)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
-
+  - [Praciting DS & Algos in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/smansilla95/Building-A-Web-App-and-Adding-an-SSL-Certificate)) <b>
 
 <h2> 🤳 Connect with me:</h2>
 
